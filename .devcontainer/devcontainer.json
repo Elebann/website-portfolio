@@ -19,7 +19,6 @@
     "vscode": {
       // Add the IDs of extensions you want installed when the container is created.
       "extensions": [
-        "oderwat.indent-rainbow",
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
         "GitHub.copilot",
@@ -30,10 +29,7 @@
       ],
       "settings": {
         "emmet.includeLanguages": {
-          "javascript": "javascriptreact",
-          "vue-html": "html",
-          "razor": "html",
-          "plaintext": "jade"
+          "javascript": "javascriptreact"
         },
         "emmet.triggerExpansionOnTab": true
       }
